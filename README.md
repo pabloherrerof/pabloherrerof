@@ -7,6 +7,7 @@
 ```javascript
 const pabloherrerof = {
   pronouns: "he" | "his",
+  languages: ["Spanish", "English"],
   position: "trainee at Oxygen`s Workspace Training",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Redux, Styled-Components, Jest],
