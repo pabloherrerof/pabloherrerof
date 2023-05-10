@@ -1,6 +1,6 @@
 
 ![descarga (3)](https://github.com/pabloherrerof/pabloherrerof/assets/120820455/3039e9a6-b0e5-4d92-80be-fc823b3304ac)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=100&color=F7F7F7&background=9E75F900&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Welcome+to+my+profile!;Here+you+would+find+some+of+the+projects+;I've+been+working+on+this+past+months.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=100&color=F7F7F7&background=9E75F900&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=Welcome+to+my+profile!;Here+you+would+find+some+of+the+projects+;I've+been+working+on+this+past+months.)](https://git.io/typing-svg)
 
 ```javascript
 const pabloherrerof = {
