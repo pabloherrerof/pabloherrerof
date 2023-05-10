@@ -10,6 +10,21 @@
 **pabloherrerof/pabloherrerof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+
+```javascript
+const pabloherrerof = {
+  pronouns: "he" | "his",
+  position: "trainee at Oxygen`s Workspace Training",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Redux, Styled-Components, Jest],
+  education: {
+                        CertificateOfHigherEducation : "Web Development at UOC University",
+                        Bootcamp: "Oxygen Workspace",
+                        Training: "Oxygen Workspace",
+                      },
+ challenge: "Become a good coder! 🌱"
+}
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
