@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="typewriteText">Hola</div>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="dist/typewrite.min.js"></script>
+[<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="dist/typewrite.min.js"></script>]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
