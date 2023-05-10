@@ -9,7 +9,7 @@ const pabloherrerof = {
   pronouns: "he" | "his",
   languages: ["Spanish", "English"],
   position: "Trainee at Oxygen`s Workspace Training",
-  code: [Javascript, HTML, CSS, Java],
+  code: [Javascript, HTML, CSS, SCSS, Java],
   tools: [React, Redux, Styled-Components, Jest],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
