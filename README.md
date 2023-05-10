@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloherrerof&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloherrerof&theme=aura&show_icons=true)
 <!--
 **pabloherrerof/pabloherrerof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
