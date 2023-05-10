@@ -1,5 +1,5 @@
-### Hi there 👋
-<div id="typewriteText">Hola</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
