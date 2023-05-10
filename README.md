@@ -1,5 +1,6 @@
 
-![descarga (2)](https://github.com/pabloherrerof/pabloherrerof/assets/120820455/dba299e3-25f0-4f33-88aa-4d7c560ae2e0)
+![descarga (3)](https://github.com/pabloherrerof/pabloherrerof/assets/120820455/3039e9a6-b0e5-4d92-80be-fc823b3304ac)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Hello+world!+)](https://git.io/typing-svg)
 
