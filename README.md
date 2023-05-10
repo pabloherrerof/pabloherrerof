@@ -18,8 +18,8 @@ const pabloherrerof = {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&layout=donut&text_color=F7F7F7FF)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloherrerof&theme=aura&show_icons=true&text_color=F7F7F7FF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&layout=donut&text_color=F7F7F7FF&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloherrerof&theme=aura&show_icons=true&text_color=F7F7F7FF&line_height=10)
 
 <!--
 **pabloherrerof/pabloherrerof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
