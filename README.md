@@ -8,7 +8,7 @@ const pabloherrerof = {
   languages: ["Spanish", "English"],
   position: "Trainee at Oxygen`s Workspace Training",
   code: [Javascript, Typescript HTML, CSS, SCSS],
-  tools: [React, Redux, Styled-Components, Jest, Cypress, BEM methodology],
+  tools: [React, Redux, Styled-Components, Jest, Cypress, BEM, Bootstrap],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
                         Bootcamp: "Oxygen Workspace",
