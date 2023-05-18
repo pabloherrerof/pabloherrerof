@@ -14,7 +14,7 @@ const pabloherrerof = {
                         Bootcamp: "Oxygen Workspace",
                         Training: "Oxygen Workspace",
                       },
- challenge: "become a good programmer and be able to live from it! 🌱"
+ challenge: "become a good developer and be able to live from it! 🌱"
 }
 ```
 
