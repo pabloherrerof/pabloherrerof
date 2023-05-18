@@ -7,8 +7,8 @@ const pabloherrerof = {
   pronouns: "he" | "his",
   languages: ["Spanish", "English"],
   position: "Trainee at Oxygen`s Workspace Training",
-  code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Redux, Styled-Components, Jest],
+  code: [Javascript, Typescript HTML, CSS, SCSS],
+  tools: [React, Redux, Styled-Components, Jest, Cypress, BEM methodology],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
                         Bootcamp: "Oxygen Workspace",
