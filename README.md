@@ -1,5 +1,5 @@
 
-# Welcome stranger, I'm Pablo 👋🏼
+# Welcome stranger,  I'm Pablo 👋🏼
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&color=F7F7F7&multiline=true&repeat=false&width=900&height=70&lines=+Here+you+will+find+some+of+the+projects+I`ve+been+working+on.)](https://git.io/typing-svg)
 
