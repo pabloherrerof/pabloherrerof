@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&color=F7F7F7&multiline=true&repeat=false&width=900&height=70&lines=+Here+you+will+find+some+of+the+projects+I`ve+been+working+on.)](https://git.io/typing-svg)
 
-## About me
+## 👨🏼‍💻 About me
 
 ```javascript
 const pabloherrerof = {
@@ -24,8 +24,16 @@ const pabloherrerof = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloherrerof&theme=aura&layout=donut&text_color=F7F7F7FF&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloherrerof&theme=aura&show_icons=true&text_color=F7F7F7FF&line_height=28)
 
+## 🚀 Contact me
+
+📩 pabloherrerof@gmail.com
+
+👷🏼‍♂️ https://www.linkedin.com/in/pablo-herrero-ferr%C3%A1n-3b442a266
+
 <!--
 **pabloherrerof/pabloherrerof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
