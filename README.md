@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&color=F7F7F7&multiline=true&repeat=false&width=900&height=70&lines=+Here+you+will+find+some+of+the+projects+I`ve+been+working+on.;Hope+you+like+them!)](https://git.io/typing-svg)
 
-## 👨🏼‍💻 About me
+## 🏼‍🙋🏻‍♂️ About me
 
 ```javascript
 const pabloherrerof = {
@@ -11,7 +11,7 @@ const pabloherrerof = {
   languages: ["Spanish", "English"],
   position: "Trainee at Oxygen`s Workspace Training",
   code: [Javascript, Typescript HTML, CSS, SCSS],
-  tools: [React, Redux, StyledComponents, Jest, Cypress, BEM, Bootstrap, Figma, NodeJs],
+  tools: [React, Redux, StyledComponents, Jest, Cypress, BEM, Bootstrap, Figma, NodeJs, VisualCode],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
                         Bootcamp: "Oxygen Workspace",
