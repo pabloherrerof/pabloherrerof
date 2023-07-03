@@ -29,7 +29,7 @@ const pabloherrerof = {
 
 📩 pabloherrerof@gmail.com
 
-👷🏼‍♂️ https://www.linkedin.com/in/pablo-herrero-ferr%C3%A1n-3b442a266
+👷 https://www.linkedin.com/in/pablo-herrero-ferr%C3%A1n-3b442a266
 
 <!--
 **pabloherrerof/pabloherrerof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
