@@ -14,8 +14,8 @@ const pabloherrerof = {
   tools: [React, Redux, StyledComponents, MongoDB, MySQL, Jest, Cypress, BEM, Bootstrap, Figma, NodeJs, Express, VisualCode],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
-                        Bootcamp: "Oxygen Workspace",
-                        Training: "Oxygen Workspace",
+                        Bootcamp: "OXYGEN Academy",
+                        Training: "OXYGEN Recruitment",
                       },
  challenge: "become a good developer and be able to live from it! 🌱"
 }
