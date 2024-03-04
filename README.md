@@ -9,9 +9,9 @@
 const pabloherrerof = {
   pronouns: "he" | "his",
   languages: ["Spanish", "English"],
-  position: "Trainee at Oxygen`s Workspace Training",
-  code: [Javascript, Typescript HTML, CSS, SCSS],
-  tools: [React, Redux, StyledComponents, MongoDB, MySQL, Jest, Cypress, BEM, Bootstrap, Figma, NodeJs, Express, VisualCode],
+  position: "Fullstack Developer at Aries Grupo de Comunicación",
+  code: [Javascript, Typescript, HTML, CSS, SCSS, PHP, Java],
+  tools: [React, Nextjs, PHP, Laravel, MySQL, NodeJs, Express, Redux, StyledComponents, MongoDB, Jest, Cypress, BEM, Bootstrap, Figma, VisualCode],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
                         Bootcamp: "OXYGEN Academy",
