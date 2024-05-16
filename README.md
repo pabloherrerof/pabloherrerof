@@ -11,13 +11,12 @@ const pabloherrerof = {
   languages: ["Spanish", "English"],
   position: "Fullstack Developer at Aries Grupo de Comunicación",
   code: [Javascript, Typescript, HTML, CSS, SCSS, PHP, Java],
-  tools: [React, Nextjs, PHP, Laravel, MySQL, NodeJs, Express, Redux, StyledComponents, MongoDB, Jest, Cypress, BEM, Bootstrap, Figma, VisualCode],
+  tools: [React, Nextjs, PHP, Laravel, MySQL, NodeJs, Express, Redux, Zustand, StyledComponents, MongoDB, Jest, Cypress, BEM, Bootstrap, Figma, VisualCode],
   education: {
                         CertificateOfHigherEducation : "Web Development at UOC University",
                         Bootcamp: "OXYGEN Academy",
                         Training: "OXYGEN Recruitment",
                       },
- challenge: "become a good developer and be able to live from it! 🌱"
 }
 ```
 
