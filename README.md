@@ -7,17 +7,24 @@
 
 ```javascript
 const pabloherrerof = {
-  pronouns: "he" | "his",
-  languages: ["Spanish", "English"],
-  position: "Fullstack Developer at Aries Grupo de Comunicación",
-  code: [Javascript, Typescript, HTML, CSS, SCSS, PHP, Java],
-  tools: [React, Nextjs, Laravel, MySQL, NodeJs, Express, Redux, Zustand, StyledComponents, MongoDB, Jest, Cypress, BEM, Bootstrap, Figma, VisualCode],
-  education: {
-                        CertificateOfHigherEducation : "Web Development at UOC University",
-                        Bootcamp: "OXYGEN Academy",
-                        Training: "OXYGEN Recruitment",
-                      },
-}
+    pronouns: "he" | "his",
+    languages: ["Spanish", "English"],
+    position: "Fullstack Developer at Aries Grupo de Comunicación",
+    code: [Javascript, Typescript, HTML, CSS, SCSS, PHP, Java],
+    tools: [React, Nextjs, Laravel, MySQL, NodeJs, Express, Redux, Zustand, StyledComponents, MongoDB, Jest, Cypress, BEM, Bootstrap, Figma, VisualCode],
+    education: {
+                          CertificateOfHigherEducation : "Web Development at UOC University",
+                          Bootcamp: "OXYGEN Academy",
+                          Training: "OXYGEN Recruitment",
+                        },
+    work_experience: {
+                          Aries_GrupoComunicacion: {
+                                                        position: "Fullstack Developer",
+                                                        period: "September 2023 - Present",
+                                                        technologies: ["Laravel", "React", , "MySQL", "Zustand", "PHP", "Javascript", "StyledComponents", "Tailwind", "Figma", "Plesk", "VisualCode"],
+                                                        },
+                          },
+  } 
 ```
 
 
